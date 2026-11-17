@@ -45,8 +45,9 @@ Observação: a estrutura acima descreve as categorias dos materiais; consulte o
 Este projeto foi desenvolvido no contexto de uma atividade acadêmica de UX/UI do UniCEUB, com foco na aplicação prática dos conceitos estudados.
 
 🔗 Referências
-Repositório do projeto original
-Documentação oficial do GitHub sobre READMEs
+[Repositorio do projeto original](https://github.com/061bassan/projeto_UX-UI-Atividade.md)
+[Documentaçao Oficial do Github](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+
 👨‍💻 Autor
 Thiago Alexandre Rodrigues
 
